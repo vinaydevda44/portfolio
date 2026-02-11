@@ -35,7 +35,7 @@ const Aboutme = () => {
 
         <p className="max-w-3xl text-center text-gray-700 font-montserrat text-base sm:text-lg leading-relaxed">
           I am a{" "}
-          <span className="font-semibold text-black">MERN Stack Developer</span>{" "}
+          <span className="font-semibold text-black">MERN Stack & NextJs Developer </span>{" "}
           with hands-on experience in building{" "}
           <span className="font-semibold text-black">
             real-time web applications

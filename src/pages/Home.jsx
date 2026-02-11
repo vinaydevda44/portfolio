@@ -25,7 +25,7 @@ const Home = () => {
 
             <div className="flex gap-4 mt-8">
               <a
-                href="/Vinay_web.pdf"
+                href="/web_Resume.pdf"
                 download
                 className="font-montserrat font-semibold tracking-widest text-black border-b-2 border-black pb-1"
               >
@@ -49,7 +49,7 @@ const Home = () => {
 
             <div className="flex justify-center mt-6">
               <a
-                href="/Vinay_web.pdf"
+                href="/web_Resume.pdf"
                 download
                 className="font-montserrat font-semibold tracking-widest text-black border-b-2 border-black pb-1"
               >

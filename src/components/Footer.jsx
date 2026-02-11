@@ -47,7 +47,7 @@ const Footer = () => {
 
     
         <p className="text-xs sm:text-sm tracking-wide text-gray-400 text-center">
-          © 2025 Vinay Devda. Learning, building, improving.
+          © 2026 Vinay Devda. Learning, building, improving.
         </p>
       </div>
     </footer>
